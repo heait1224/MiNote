@@ -7,12 +7,12 @@
         <deviceKey>
           <Key>
             <type value="VIRTUAL_DEVICE_PATH" />
-            <value value="C:\Users\Leonvo\.android\avd\Pixel_2_API_Baklava_1.avd" />
+            <value value="C:\Users\Leonvo\.android\avd\xiaomi.avd" />
           </Key>
         </deviceKey>
       </Target>
     </targetSelectedWithDropDown>
-    <timeTargetWasSelectedWithDropDown value="2025-03-20T14:30:22.158539Z" />
+    <timeTargetWasSelectedWithDropDown value="2025-04-05T17:08:02.395143700Z" />
     <runningDeviceTargetsSelectedWithDialog>
       <Target>
         <type value="RUNNING_DEVICE_TARGET" />
